@@ -43,11 +43,11 @@ Here’s a gameplay demo:
 
 If the video above doesn’t load, click the image below 👇
 
-[![Watch the demo](screenshot.png)](snake_game_preview.mp4)
+[![Watch the demo](Screenshot.png)](snake_game_preview.mp4)
 
 ## 📸 Preview
 
-![Snake Game Screenshot](screenshot.png)
+![Snake Game Screenshot](Screenshot.png)
 
 ## 🤝 Contributing
 
