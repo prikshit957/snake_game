@@ -35,16 +35,6 @@ open index.html   # or double-click in file explorer
 
 No dependencies required! 🎉
 
-## 🎥 Demo
-
-Here’s a gameplay demo:
-
-<video src="snake_game_preview.mp4" width="600" controls></video>
-
-If the video above doesn’t load, click the image below 👇
-
-[![Watch the demo](Screenshot.png)](snake_game_preview.mp4)
-
 ## 📸 Preview
 
 ![Snake Game Screenshot](Screenshot.png)
