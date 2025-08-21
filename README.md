@@ -36,8 +36,7 @@ open index.html   # or double-click in file explorer
 No dependencies required! 🎉
 
 ## 📸 Preview
-
-![Snake Game Preview Video](snake_game_preview.mp4)
+<video src="snake_game_preview.mp4" width="600" controls></video>
 
 ## 🤝 Contributing
 
