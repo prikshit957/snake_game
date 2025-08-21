@@ -37,7 +37,7 @@ No dependencies required! 🎉
 
 ## 📸 Preview
 
-![Snake Game Preview Video](screenshot.png)
+![Snake Game Preview Video](snake_game_preview.mp4)
 
 ## 🤝 Contributing
 
